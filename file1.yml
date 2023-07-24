@@ -1,3 +1,5 @@
 name : name1
 age : 30
 auth : ROLE_ADMIN
+email : asd123@naver.com
+friends : name2, name3 
