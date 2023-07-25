@@ -1,6 +1,6 @@
 name : 박길동
 age : 26
-auth : ROLE_ADMIN
+auth : ROLE_MANAGER
 email : asd123@naver.com
 friends : name2, name3 
 phone : 010-1111-1111
